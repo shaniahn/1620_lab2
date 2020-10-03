@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(201, 212, 223);
+  }
+  h1 {
+    color: #5B84B1FF;
+    font-family: verdana;
+    border: 6px solid #FC766AFF;
+    padding: 15px;
+    text-align: center 
+  }
+  h3 {
+      color: #FC766AFF;
+      font-family: verdana;
+      text-align: center 
+  }
+  p {
+    color: #5B84B1FF;
+    font-family: verdana;
+  }
+  img {
+    border: 8px solid #FC766AFF;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+  }
