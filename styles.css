@@ -1,21 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital@1&family=Open+Sans:ital,wght@1,300&display=swap');
+
 body {
     background-color: #eef7fc(201, 212, 223);
+    font-family: 'Merriweather', serif;
   }
   h1 {
     color: #67a1e0;
-    font-family: verdana;
+    font-family: 'Open Sans', sans-serif;
     border: 6px solid #060e0d;
     padding: 15px;
     text-align: center 
   }
   h3 {
       color: #67a1e0;
-      font-family: verdana;
+      font-family: 'Open Sans', sans-serif;
       text-align: center 
   }
   p {
     color: #67a1e0;
-    font-family: verdana;
+    font-family: 'Merriweather', serif;
   }
   img {
     border: 8px solid #67a1e0;
